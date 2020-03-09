@@ -1,0 +1,257 @@
+/*.my-form label{
+	display: block;
+
+}*/
+/*.form-group input[type="text"]{
+	padding: 5px;
+	width: 30%;
+	height: 90px;
+	border-radius: round;
+}*/
+/*.form-group input[type="password"], .my-form textarea{
+	padding: 5px;
+	width: 30%;
+	height: 30px;
+	
+}*/
+
+/*.my-form input[type="submit"]{
+	background-color: black;
+	color: #fff;
+	border: none;
+	padding: 10px 15px;
+	width: 30%;
+	height: 30px;
+}*/
+.my-form button,.my-form input[type="submit"]{
+	background-color: #808000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: right;
+    text-decoration:none;
+    display: inline-block;
+    border-radius: 30px;
+    font-size: 16px;
+    float:center;
+    margin-left:590px;
+}
+/*.my-form 
+{
+	display: block;
+	text-align: center;
+}*/
+form
+{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	margin-top: 20%;
+}
+input
+{
+	width: 375px;
+	height: 25px;
+}
+/*label
+{
+	display: inline-block;
+	width: 10px;
+	color: white;
+}*/
+.a
+{
+	background-color: white;
+}
+.new input[type="text"], .new textarea{
+	padding: 5px;
+	width: 50%;
+	height: 50px;
+	margin-left: 100%;
+}
+.new input[type="password"], .new textarea{
+	padding: 5px;
+	width: 50%;
+	height: 50px;
+	margin-left: 100%;
+}
+.new input[type="phone"], .new textarea{
+	padding: 5px;
+	width: 159%;
+	height: 50px;
+	margin-left: 100%;
+}
+.new input[type="submit"]{
+	background-color: black;
+	color: #fff;
+	border: none;
+	padding: 10px 15px;
+	width: 50%;
+	height: 50px;
+	margin-left: 100%;
+}
+.block{
+	float: middle;
+	box-sizing: border-box;
+}
+#main-footer{
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+}
+#main-header{
+	background-color: #DAA520;
+
+	color: white;
+}
+.container{
+	width: 80%
+	margin:auto;
+	overflow: hidden;
+}
+#navbar{
+	background-color: #DAA520;
+	color: #fff;
+}
+#navbar ul{
+	padding: 0;
+	list-style: none;
+	float: right;
+}
+#navbar li{
+	display: inline;
+}
+#navbar a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px;
+}
+.column{
+	float: left;
+	width: 25%;
+}
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+.container{
+	text-decoration-color: #fff;
+}
+#show{
+	background-image: url('https://st4.depositphotos.com/1653005/21661/i/1600/depositphotos_216619284-stock-photo-businessman-choose-payment-icon-space.jpg');
+	background-position: center;
+	min-height: 300px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+#show h1{
+	color: #fff;
+	font-size: 50px;
+	line-height: 1.6em;
+	padding: 30px;
+}
+.img{
+	opacity: 0.5;
+}
+#lol{
+	background-color: #ffff;
+	background-image: url('data:image/jpeg');
+}
+.lol1{
+	background-color: #ffff;
+}
+.decor{
+	background-image: url('https://as2.ftcdn.net/jpg/01/99/67/69/500_F_199676939_yFpIY0Ks9usuN8oSiWPCfxEwoR8YgbjV.jpg');
+	background-position: center;*/
+	min-height: 300px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.decor h1{
+	color: #fff;
+	font-size: 50px;
+	line-height: 1.6em;
+	padding: 30px;
+}
+.button {
+  background-color: #000000; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.form-group label{
+color: #B4886B;
+font-weight: bold;
+display: block;
+width: 150px;
+padding-left: 30px;
+padding-right: 30px;
+}
+.form-group input[type="text"],.form-group textarea{
+width: 400px;
+margin-left: 450px;
+height: 40px;
+border-radius: 30px;
+}
+.form-group input[type="password"],.form-group textarea{
+width: 400px;
+margin-left: 450px;
+height: 40px;
+border-radius: 30px;
+}
+.form-group a{
+	color: #DAA520;
+	margin-left: 535px;
+}
+.group label{
+color: #000000;
+font-weight: bold;
+display: block;
+width: 150px;
+margin-left: 400px;
+}
+
+.group input[type="text"],.group textarea{
+width: 400px;
+margin-left: 450px;
+height: 40px;
+border-radius: 30px;
+}
+.group input[type="password"],.group textarea{
+width: 400px;
+margin-left: 450px;
+height: 40px;
+border-radius: 30px;
+}
+.group input[type="Phone"],.group textarea{
+width: 400px;
+margin-left: 450px;
+height: 40px;
+border-radius: 30px;
+}
+.group button,.group input[type="submit"]{
+	background-color: #808000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: right;
+    text-decoration:none;
+    display: inline-block;
+    border-radius: 30px;
+    font-size: 16px;
+    float:center;
+    margin-left:420px;
+}
+
